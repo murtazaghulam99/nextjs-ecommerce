@@ -6,7 +6,7 @@
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/murtazaghulam99)
+- [Ghulam Murtaza](https://www.github.com/murtazaghulam99)
 
 ## Features
 
